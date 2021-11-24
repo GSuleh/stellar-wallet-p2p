@@ -1,5 +1,5 @@
 import { Component, State } from "@stencil/core";
-import { Prompter } from "../stellar-prompt/stellar-prompt";
+import { Prompter } from "../prompt/stellar-prompt";
 
 import componentWillLoad from "./events/componentWillLoad";
 import render from "./events/render";
